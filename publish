@@ -1,8 +1,0 @@
-#!/bin/bash
-
-src="_site/"
-dst="compufix:/var/www/craigmarshall.org/test/"
-
-bundle exec jekyll build 
-rsync -rvl --delete --stats --progress --exclude blog --exclude publish "$src" "$dst"
-
