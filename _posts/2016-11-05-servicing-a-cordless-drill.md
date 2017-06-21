@@ -2,7 +2,8 @@
 layout: post
 title: "Servicing a Cordless Drill"
 date: 2016-11-05 16:38:57 +1100
-tags: tools 
+tags: Tools 
+image: bosch01
 ---
 
 {% jpg bosch01 %} This Bosch PSR 14.4 cordless drill (with charger and 2 batteries) was for sale at the local tip shop for the bargain price of $22. A quick look showed that it worked ok, and so I decided it was maybe worth $20. They accepted my offer, and the drill came home with me.
@@ -25,5 +26,5 @@ After looking at it a bit more closely, I wondered if maybe I'd made a mistake. 
 
 The drill is back in one piece, and 95% of the arcing has stopped, and the gearbox sounds like a new one! Hopefully this will give me some years of service and repay the couple of hours and $20 I put into it.
 
-I still need to clean the outside casing of the drill, it has paint splatters and what looks like plasterboard jointing compound in the grooves. Once I've done that, I'll post a final picture.
+I still need to clean the outside casing of the drill, it has paint splatters and what looks like plasterboard jointing compound in the grooves. If I ever do that (ha!), I'll post a final picture.
 

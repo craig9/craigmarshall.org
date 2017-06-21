@@ -1,23 +1,18 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="home">
+{% for post in site.posts %}
 
-  <h1 class="page-heading">Posts</h1>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="article">
+      <a href="{{ post.url | relative_url }}">
+            <div class="article-image" {% if post.image != "" %} style="background-image: url('{{ '/img/' | append:post.image | append:'.thumb.jpg' | relative_url }}')"{% endif %}></div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+        <div class="article-title">{{ post.title | escape }}</div>
+        <div class="article-date">{{ post.date | date: "%a, %-d %b %Y" }}</div>
+      </a>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    </div>
+{% endfor %}
 
-</div>
+

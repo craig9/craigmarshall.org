@@ -1,0 +1,15 @@
+    <p class="post-meta">
+        <strong>
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: "%A, %-d %B %Y" }} foo
+            </time>
+        </strong>
+
+        {% if page.tags %}
+            |
+            {% for t in page.tags %}
+                <a href="{{ '/tags/' | append:t | relative_url }}">{{ t }}</a>
+            {% endfor %} 
+        {% endif %}
+    </p>
+

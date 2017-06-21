@@ -1,10 +1,12 @@
 
-title: Craig's Workshop
-email: craig9@gmail.com
+title: "Make Fix Mod"
+email: makefixmod@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My workshop website. Come back regularly to see what I've been making and fixing.
+  I love workshops and tools, and I love to make, fix and mod things.
+  Come back regularly and check out what I've been working on.
+  -- Craig Marshall
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
@@ -14,3 +16,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - publish

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# I'm using this command to build the site, and push it to a remote server using 
+# rsync over SSH. You ideally need your ~/.ssh/config set up with the host's name
+# and your private/public key pair set up. If the web server is on the local network,
+# you may find it easier to push it to the server using nfs or samba, etc.
+
+# I run this command from the local jekyll directory, so the relative directory:
+# _site/ will send the right thing to the remote server.
+src="_site/"
+dst="compufix:/var/www/makefixmod/"
+
+bundle exec jekyll build 
+rsync -rvl --delete --stats --progress "$src" "$dst"
+
+# recursive, verbose, copy symlinks as symlinks, show transfer stats, show progress
+
