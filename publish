@@ -8,10 +8,10 @@
 # I run this command from the local jekyll directory, so the relative directory:
 # _site/ will send the right thing to the remote server.
 src="_site/"
-dst="compufix:/var/www/makefixmod/"
+dst="compufix:/var/www/craigmarshall/"
 
 bundle exec jekyll build 
-rsync -rvl --delete --stats --progress "$src" "$dst"
+rsync -rvl --stats --progress "$src" "$dst"
 
 # recursive, verbose, copy symlinks as symlinks, show transfer stats, show progress
 
