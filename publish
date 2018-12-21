@@ -8,7 +8,7 @@
 # I run this command from the local jekyll directory, so the relative directory:
 # _site/ will send the right thing to the remote server.
 src="_site/"
-dst="compufix:/var/www/craigmarshall/"
+dst="tascode:/var/www/craigmarshall.org/"
 
 bundle exec jekyll build 
 rsync -rvl --stats --progress "$src" "$dst"

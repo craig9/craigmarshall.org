@@ -1,18 +1,31 @@
 ---
-layout: page
+layout: default
 ---
 
+<div class="grid" class="justify-content-center">
 {% for post in site.posts %}
-
-    <div class="article">
-      <a href="{{ post.url | relative_url }}">
-            <div class="article-image" {% if post.image != "" %} style="background-image: url('{{ '/img/' | append:post.image | append:'.thumb.jpg' | relative_url }}')"{% endif %}></div>
-
-        <div class="article-title">{{ post.title | escape }}</div>
-        <div class="article-date">{{ post.date | date: "%a, %-d %b %Y" }}</div>
-      </a>
-
-    </div>
+  <div class="grid-item">
+    <a href="{{ post.url | relative_url }}" title="{{ post.title | escape }} ({{ post.date | date: "%a, %-d %b %Y" }}">
+        <img class="resized" src="{{ '/img/' | append:post.image | append:'.thumb.jpg' | relative_url }}" />
+    </a>
+  </div>
 {% endfor %}
+</div>
+
+<script>
+
+$(function(){
+    var $grid = $('.grid').masonry({
+        itemSelector: '.grid-item',
+        columnWidth: 370
+    });
+    $grid.imagesLoaded().progress( function() {
+        $grid.masonry('layout');
+    });
+
+});
+
+</script>
+
 
 

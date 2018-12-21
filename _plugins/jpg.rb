@@ -36,7 +36,7 @@ class Jpg < Liquid::Tag
     full_name = baseurl + "/" + full_name
     thumb_name = baseurl + "/" + thumb_name
     
-    "<a href=\"#{full_name}\" bigw=\"#{bigw}\" bigh=\"#{bigh}\"><img src=\"#{thumb_name}\" alt=\"#{@basename}\" width=\"#{smallw}\" height=\"#{smallh}\"/></a>"
+    "<a href=\"#{full_name}\" bigw=\"#{bigw}\" bigh=\"#{bigh}\"><img src=\"#{thumb_name}\" alt=\"#{@basename}\" width=\"#{smallw}\" height=\"#{smallh}\" class=\"post-img\"/></a>"
 
   end
 

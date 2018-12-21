@@ -1,0 +1,36 @@
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+html,
+body {
+  background-color: #333;
+}
+
+body {
+  color: #fff;
+}
+
+.grid-item {
+    width: 370px;
+    height: auto;
+}
+
+.resized {
+    width: 370px;
+    height: auto;
+}
+
+.post-img {
+  /*max-width: 100%;*/
+  vertical-align: middle; 
+  float:left; 
+  margin-right: 20px;
+  margin-bottom: 20px; }
+
+p {
+    vertical-align:top;
+    clear:both;
+}
