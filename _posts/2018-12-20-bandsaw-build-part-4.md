@@ -4,7 +4,7 @@ title: "Bandsaw Build Part 4"
 tags:
 image: bandsaw-build-60
 ---
-{% jpg bandsaw-build-49 %} Cutting a large block of aluminium to turning to the blade guide mounts. On the original plans this is hardwood, but I like the idea of upgrading some of the more important parts to metal.
+{% jpg bandsaw-build-49 %} Cutting a large block of aluminium to turn into the blade guide mounts. On the original plans this is hardwood, but I like the idea of upgrading some of the more important parts to metal.
 
 {% jpg bandsaw-build-50 %} Blade guide mounts to final size, just need to drill and tap some holes.
 
@@ -24,7 +24,7 @@ image: bandsaw-build-60
 
 {% jpg bandsaw-build-58 %} And here they are assembled, as they will be on the finished machine.
 
-{% jpg bandsaw-build-59 %} Holes drilled and gapped in the blade guide retainers
+{% jpg bandsaw-build-59 %} Holes drilled and tapped in the blade guide retainers
 
 {% jpg bandsaw-build-60 %} Blade guides assembled. Now onto the blade guide post and other wooden parts that hold these to the bandsaw, and allow for adjustment.
 
