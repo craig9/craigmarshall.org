@@ -2,7 +2,7 @@
 layout: post
 title: "Bandsaw Build Part 4"
 tags:
-image: bandsaw-build-60
+image: bandsaw-build-62
 ---
 {% jpg bandsaw-build-49 %} Cutting a large block of aluminium to turn into the blade guide mounts. On the original plans this is hardwood, but I like the idea of upgrading some of the more important parts to metal.
 
