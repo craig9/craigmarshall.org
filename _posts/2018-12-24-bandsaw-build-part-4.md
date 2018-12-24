@@ -39,3 +39,15 @@ image: bandsaw-build-60
 {% jpg bandsaw-build-65 %} The guide post and the rebate.
 
 {% jpg bandsaw-build-66 %} After this pic was taken, I stood the saw back up, re-attached the top wheel, and spent a good long while making sure the guide post moved co-axially with the blade. Using the blade guides to set up a known amount of left-right clearance, I was able to plane and tune the rebate surfaces so that the guide bar was held square, and parallel. And the clearance was set to be equal wherever the guide bar was in relation to the upper wheel. It was also set fore-aft in the same way.
+
+{% jpg bandsaw-build-67 %} After some careful measuring and testing, setting the rebate in place on the guide post clamping plate
+
+{% jpg bandsaw-build-68 %} A nice 2mm thick piece of powerdcoated steel will become the blade guard. Just need to cut the piece down to size.
+
+{% jpg bandsaw-build-69 %} Bandsaw makes short work of cutting to length
+
+{% jpg bandsaw-build-70 %} Some hand work with the file to deburr the edges
+
+{% jpg bandsaw-build-71 %} I rough cut the long edges with the bandsaw, and then milled the edges to final size.
+
+Still to come: A picture of the blade guide post clamped to the frame. I should have used epoxy to glue the threaded rod into the frame, it's still curing 24h later...
