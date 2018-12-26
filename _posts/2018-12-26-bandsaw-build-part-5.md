@@ -2,7 +2,7 @@
 layout: post
 title: "Bandsaw Build Part 5"
 tags:
-image: bandsaw-build-74
+image: bandsaw-build-82
 ---
 {% jpg bandsaw-build-72 %} First step was to print out the 1:1 scale templates, then cut out some suitable oversize blanks, and then glue the innards in place, aligning with the openings/mortises in the drawing.
 
@@ -24,3 +24,8 @@ image: bandsaw-build-74
 
 {% jpg bandsaw-build-81 %} Gluing the crades to the beam without dowels at this stage. Once the glue has dried, I'll drill through the cradle holes made earlier, and into the beam itself. The dowels are prepped already, so it's just a case of waiting for the first lot of glue to dry.
 
+{% jpg bandsaw-build-82 %} Now the 10 dowels are in (Home made brad point bit to the rescue again)
+
+{% jpg bandsaw-build-83 %} This is a mock up of where I hope to get to by the end of the day. I have replaced the glue holding the guide post threaded rod in place. The polyurethane adhesive still wasn't dry after 3 days, so I drilled it out, used mineral spirits to clean the drill bit, and then epoxied a new piece of threaded rod in place. It was cured in 30 minutes. The trunnion beam is just sat in place for now, the lower guides are also just sat in place.
+
+Coming soon: I'll fix the trunnion beam in place, and the lower guides, and I'll shorten the guide post clamp bolt. Then I'll make both layers of the table, and the insert plate. Then the table and trunnions stage will be complete.
