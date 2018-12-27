@@ -28,4 +28,18 @@ image: bandsaw-build-82
 
 {% jpg bandsaw-build-83 %} This is a mock up of where I hope to get to by the end of the day. I have replaced the glue holding the guide post threaded rod in place. The polyurethane adhesive still wasn't dry after 3 days, so I drilled it out, used mineral spirits to clean the drill bit, and then epoxied a new piece of threaded rod in place. It was cured in 30 minutes. The trunnion beam is just sat in place for now, the lower guides are also just sat in place.
 
-Coming soon: I'll fix the trunnion beam in place, and the lower guides, and I'll shorten the guide post clamp bolt. Then I'll make both layers of the table, and the insert plate. Then the table and trunnions stage will be complete.
+{% jpg bandsaw-build-84 %} Here the trunnion beam is fixed to the frame, and the lower guides are fixed to the trunnion beam. The trunnions themselves are just sat there for now, to show where they will go.
+
+{% jpg bandsaw-build-85 %} Close up of the trunnion beam
+
+{% jpg bandsaw-build-86 %} Lower layer of the table just sat in place to show scale. I've increased the design 100mm on the left, 30mm on the right and 15mm front and back.
+
+{% jpg bandsaw-build-87 %} Clearance between table and lower wheel.
+
+{% jpg bandsaw-build-88 %} Trunnion cradle dowel joints close up
+
+{% jpg bandsaw-build-89 %} Gluing the lower table layer.
+
+{% jpg bandsaw-build-90 %} Just waiting for glue now.
+
+Coming next: Got to fit the trunninons to the table, rout an insert plate slot, make the carriage bolt bushings for the trunnions, and add the frame reinforcement piece underneath the trunnion beam.
