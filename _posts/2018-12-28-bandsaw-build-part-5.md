@@ -42,4 +42,18 @@ image: bandsaw-build-82
 
 {% jpg bandsaw-build-90 %} Just waiting for glue now.
 
-Coming next: Got to fit the trunninons to the table, rout an insert plate slot, make the carriage bolt bushings for the trunnions, and add the frame reinforcement piece underneath the trunnion beam.
+{% jpg bandsaw-build-91 %} Here's looking at the edges of the table after some planing and cleaning and truing up.
+
+{% jpg bandsaw-build-92 %} Getting the trunnions positioned carefully, and affixed.
+
+{% jpg bandsaw-build-93 %} Maybe the weirdest mortise I've ever had to cut! This is so the blade guides can tilt over and protrude into the table space. It wouldn't be hard to design it so that no mortise was necessary, but you would have to forgo some of your resaw height. I think it's better to preserve as much resaw height as possible.
+
+{% jpg bandsaw-build-94 %} Now it's possible to adjust the table between 90 and 45 degrees, and truly lock the table!
+
+{% jpg bandsaw-build-95 %} A look at below the table, now it's fitted properly.
+
+{% jpg bandsaw-build-96 %} After routing a pocket for a zero clearance insert, I gave it a go. The blade guides work really well, even though they're nowhere near the workpiece in this pic. (I should have lowered them)
+
+{% jpg bandsaw-build-97 %} And the first "3D" object produced from Matthias' reindeer drawing. I was really hoping to get to this part by Christmas day, but oh well :-)
+
+This is the end of the table and trunnions stage. Next up is the blade guard and enclosure.
